@@ -2,7 +2,7 @@
 
 ```json
 {
-    "nane": "Aline",
+    "name": "Aline",
     "lastName": "Zsigmond",
     "alias": "Pokemond",
     "age": 30,
@@ -18,9 +18,9 @@
         "backEnd": "java"
     },
     "interests": {
-        "music": ["Billy Joel","Roy Orbison","Chris Isaak","Diego Torres","George Strait","Johnny Cash"],
-        "games": ["Valorant","Fortnite","Fall Guys"],
-        "shows": ["Doctor Who", "Good Omens", "Our Flag Means Death", "Friends", "Full House"]
+        "music": ["Billy Joel","Roy Orbison","Chris Isaak","Diego Torres","George Strait","Rammstein"],
+        "games": ["Valorant","Fortnite","Fall Guys","Cult of the Lamb"],
+        "shows": ["Doctor Who","Good Omens","Our Flag Means Death","Friends","Full House","Breaking Bad"]
     }
 }
 ```
