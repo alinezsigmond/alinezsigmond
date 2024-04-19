@@ -14,7 +14,7 @@
         "french": "basic"
     },
     "technologies": {
-        "frontEnd": ["html","css","javascript","reactJS","vue","styled components","sass","react native"],
+        "frontEnd": ["html","css","javascript","typescript","reactJS","vite","vue","tailwind css","styled components","sass","react native"],
         "backEnd": "java"
     },
     "interests": {
