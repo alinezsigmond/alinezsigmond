@@ -18,8 +18,8 @@
         "backEnd": "java"
     },
     "interests": {
-        "music": ["Billy Joel","Roy Orbison","Chris Isaak","Diego Torres","George Strait","Rammstein"],
-        "games": ["Valorant","Fortnite","Fall Guys","Cult of the Lamb"],
+        "music": ["Billy Joel","Roy Orbison","Chris Isaak","Diego Torres","George Strait","Rammstein","Bruno e Marrone"],
+        "games": ["Valorant","Fortnite","Cult of the Lamb","The Darkside Detective","Fall Guys"],
         "shows": ["Doctor Who","Good Omens","Our Flag Means Death","Friends","Full House","Breaking Bad"]
     }
 }
