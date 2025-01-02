@@ -5,7 +5,7 @@
     "name": "Aline",
     "lastName": "Zsigmond",
     "alias": "Pokemond",
-    "age": 30,
+    "age": 31,
     "bio": "front-end developer in the making. part time tech support, part-time chronically online",
     "languages": {
         "portuguese": "native",
@@ -19,7 +19,7 @@
     },
     "interests": {
         "music": ["Billy Joel","Roy Orbison","Chris Isaak","Diego Torres","George Strait","Rammstein","Bruno e Marrone"],
-        "games": ["Valorant","Fortnite","Cult of the Lamb","The Darkside Detective","Fall Guys"],
+        "games": ["Valorant","Fortnite","Cult of the Lamb","The Darkside Detective","Rocket League","Fall Guys"],
         "shows": ["Doctor Who","Good Omens","Our Flag Means Death","Friends","Full House","Breaking Bad"]
     }
 }
