@@ -5,7 +5,7 @@
     "name": "Aline",
     "lastName": "Zsigmond",
     "alias": "Pokemond",
-    "age": 31,
+    "age": 32,
     "bio": "front-end developer in the making. part time tech support, part-time chronically online",
     "languages": {
         "portuguese": "native",
